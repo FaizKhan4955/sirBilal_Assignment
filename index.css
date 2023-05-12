@@ -1,0 +1,14 @@
+.main{
+    height: 550px;
+    width: 1500px;
+    /* background-color: aqua; */
+    display: grid;
+    justify-content: space-around;
+}
+
+.colo{
+    background-color: black;
+    height: 350px;
+    width: 450px;
+    border-radius: 100%;
+}
